@@ -1,0 +1,99 @@
+/*-------------------------- Página 2 e 3----------------------------*/
+
+header > h1 {
+    text-align: center;
+}
+
+.incrivel-tabela {
+    background-image: linear-gradient(to left, red,yellow,blue);
+}
+
+.alinhar {
+    text-align: center;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+#table-layout {
+    margin-top: 50px;
+    margin-left: 375px;
+    width: 30%;
+    width: 500px;
+    height: 450px;
+}
+
+#tpo-layout {
+    text-align: center;
+    height: 90px;
+}
+
+#menu-layout {
+    line-height: 90px;
+    text-align: center;
+}
+
+#cont-layout {
+    width: 50px;
+    text-align: center;
+}
+
+#rodpe-layout {
+    text-align: center;
+    height: 40px;
+    
+}
+
+.last-table {
+    width: 300px;
+    height: 300px;
+}
+
+.justabutton {
+    float: left;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-color: yellow;
+}
+.justabutton:hover {
+    background-color: yellow;
+    color: black;
+    border-color: red;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.justabutton2 {
+    margin-left: 80vh;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-color: yellow;
+}
+.justabutton2:hover {
+    background-color: yellow;
+    color: black;
+    border-color: red;
+}
+
+
+/*----------------------Recursos especiais da pag 3---------------------------------*/
+
+.last-table2 {
+    width: 300px;
+    height: 300px;
+    display: inline-table;
+    margin: 20px;
+    margin-left: 85px;
+}
+
+
+

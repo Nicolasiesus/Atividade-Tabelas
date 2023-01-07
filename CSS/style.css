@@ -1,0 +1,43 @@
+
+table, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+   width: 30%;
+
+}
+.alinhar {
+    text-align: center;
+}
+
+.alinhar-end {
+    text-align: end;
+}
+.incrivel-tabela {
+    background-image: linear-gradient(to left, red,yellow,blue);
+}
+
+header > h1 {
+    text-align: center;
+}
+
+.justabutton {
+    float: right;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-color: yellow;
+}
+.justabutton:hover {
+    background-color: yellow;
+    color: black;
+    border-color: red;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    background-color: yellow;
+    color: black;
+}
+
