@@ -17,6 +17,7 @@ table, tr, td {
 }
 
 #table-layout {
+    border-collapse: collapse;
     margin-top: 50px;
     margin-left: 375px;
     width: 30%;
